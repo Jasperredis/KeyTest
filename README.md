@@ -1,6 +1,8 @@
 # KeyTest
 The Key Test is a Windows Terminal application in C# used for testing if keys work, or whatever other reason you need your keys outputted to you. Lots of "commands" to tinker with the app and useful outputs! More updates coming.
 
+The Key Test is only compatible with Windows. It uses C# with .NET 7.0.
+
 Open "Typing Text.exe" to run the program. The files call it Typing Test as that was the original name.
 
 To understand the outputs shown, you can do the following to get a tutorial:
